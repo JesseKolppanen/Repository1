@@ -3,4 +3,4 @@
 =======
 123456
 tämä on suuri tarina
->>>>>>> 149e0db50ad70b9a94fb03c5adef5cf21ddc2d4e
+tai sitten pieni
